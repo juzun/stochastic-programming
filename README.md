@@ -1,1 +1,1 @@
-# stochastic-programming
+# Stochastic programming
